@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=KakutaAtsushi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KakutaAtsushi&title=Stars,Repository,MultiLanguage,Commits,Issue&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **KakutaAtsushi/KakutaAtsushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
