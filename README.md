@@ -1,11 +1,11 @@
 ### Hi there 👋
-<p align="" width="100%"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakutaAtsushi&layout=compact&show_icons=true&theme=cobalt" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KakutaAtsushi&theme=cobalt&show_icons=ture" />
-</p>
+<div width="100%">
+    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakutaAtsushi&layout=compact&show_icons=true&theme=cobalt" />
+    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KakutaAtsushi&theme=cobalt&show_icons=ture" />
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=KakutaAtsushi&title=Stars,Repository,MultiLanguage,Commits,Issue,PullRequest&theme=cobalt)](https://github.com/ryo-ma/github-profile-trophy)
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=KakutaAtsushi&title=Stars,Repository,MultiLanguage,Commits,Issue,PullRequest&theme=cobalt)](https://github.com/ryo-ma/github-profile-trophy)
-  
+</div>
 
 <!--
 **KakutaAtsushi/KakutaAtsushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
