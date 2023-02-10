@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="left" width="100%"> 
+<p align="" width="100%"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakutaAtsushi&layout=compact&show_icons=true&theme=cobalt" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KakutaAtsushi&theme=cobalt&show_icons=ture" />
 </p>
